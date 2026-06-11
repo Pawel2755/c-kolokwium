@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781002936 source:c:\users\pawel\onedrive\pulpit\c\kokoklos\listy bez - znajdowanie i usuwanie cykli\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
