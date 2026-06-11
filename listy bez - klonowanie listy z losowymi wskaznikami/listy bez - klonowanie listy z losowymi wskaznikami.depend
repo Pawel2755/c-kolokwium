@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781014955 source:c:\users\pawel\onedrive\pulpit\c\kokoklos\listy bez - klonowanie listy z losowymi wskaznikami\main.c
+	<stdio.h>
+	<stdlib.h>
+
