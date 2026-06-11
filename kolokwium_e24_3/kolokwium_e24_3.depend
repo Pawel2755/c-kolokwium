@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780849533 source:c:\users\pawel\onedrive\pulpit\c\kokoklos\kolokwium_e24_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
